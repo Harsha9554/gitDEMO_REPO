@@ -4,3 +4,9 @@ class A {
         System.out.println("X");
     }
 }
+class S {
+    public static void solve()
+    {
+        System.out.println("Y");
+    }
+}
